@@ -56,7 +56,7 @@ All Geometry Dash endpoints found in the binary.
 -   [`https://www.boomlings.com/database/deleteGJLevelList.php`](endpoints/lists/deleteGJLevelList.md)
 -   [`https://www.boomlings.com/database/updateGJUserScore22.php`](endpoints/users/updateGJUserScore22.md)
 -   [`https://www.boomlings.com/database/getGJSongInfo.php`](endpoints/songs/getGJSongInfo.md)
--   ``https://www.boomlings.com/database/getCustomContentURL.php``
+-   [`https://www.boomlings.com/database/getCustomContentURL.php`](endpoints/songs/getCustomContentURL.md)
 -   [`https://www.boomlings.com/database/accounts/registerGJAccount.php`](endpoints/accounts/registerGJAccount.md)
 -   [`https://www.boomlings.com/database/accounts/loginGJAccount.php`](endpoints/accounts/loginGJAccount.md)
 -   [`https://www.boomlings.com/database/getAccountURL.php`](endpoints/misc/getAccountURL.md)
