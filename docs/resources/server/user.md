@@ -70,7 +70,7 @@ A list of all known keys can be found in the table below
 | 58 | discord | **String** | The player's Discord handle
 | 59 | instagram | **String** | The player's Instagram username
 | 60 | tiktok | **String** | The player's TikTok handle
-| 61 | custom | **String** | The player's one-time authentication token
+| 61 | custom | **String** | The player's custom one-time authentication token
 
 ### Trivia
 
