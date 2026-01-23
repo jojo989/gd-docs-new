@@ -1,4 +1,4 @@
-# LoginGJAccount
+# loginGJAccount.php
 
 > This endpoint is used to log into a players Geometry Dash account.
 

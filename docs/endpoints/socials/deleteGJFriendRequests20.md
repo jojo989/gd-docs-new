@@ -1,4 +1,4 @@
-# DeleteFriendRequests
+# deleteGJFriendRequests20.php
 
 > This endpoint is used to delete friend requests that the player may have recieved from other players
 

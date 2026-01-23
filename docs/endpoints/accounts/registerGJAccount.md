@@ -1,4 +1,4 @@
-# Register Account
+# registerGJAccount.php
 
 > This endpoint is used to register an account
 

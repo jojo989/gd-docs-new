@@ -1,4 +1,4 @@
-# accounts/backupGJAccountNew.php
+# backupGJAccountNew.php
 
 Saves account data
 

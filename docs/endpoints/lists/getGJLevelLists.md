@@ -1,4 +1,4 @@
-# getGJLevelLists
+# getGJLevelLists.php
 
 > This endpoint is used to search level lists by name and / or filter
 

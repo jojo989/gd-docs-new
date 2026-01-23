@@ -1,4 +1,4 @@
-# accounts/syncGJAccountNew.php
+# syncGJAccountNew.php
 
 Loads account data
 

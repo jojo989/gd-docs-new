@@ -1,4 +1,4 @@
-# uploadFriendRequest20
+# uploadFriendRequest20.php
 
 > This endpont is used to send a friend request to other players
 

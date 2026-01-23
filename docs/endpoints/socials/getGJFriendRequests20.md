@@ -1,4 +1,4 @@
-# GetFriendRequests
+# getGJFriendRequests20.php
 
 > This endpoint is to fetch friend requests recieved by other users
 
