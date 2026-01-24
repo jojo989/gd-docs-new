@@ -1,10 +1,11 @@
 # Credits
 
-> **The GD Docs Project is maintained by [Wylie](https://github.com/Wyliemaster) and is backed by [GD Programming](https://discord.gg/gd-programming-646101505417674758) which is owned by [SMJS](https://github.com/SMJSGaming)**
+> **The GD Docs Project is maintained by [Rifct](https://github.com/Rifct), [zmx](https://github.com/qimiko), [230V](https://github.com/xparadoxical), [Antimatter](https://github.com/A-Zalt), and [Kiba](https://github.com/itzkiba)**
 
 ## Special Thanks
 
-**Special thanks to all the experts in GD Programming for their contributions to this project**
+**Special thanks to these people for their help on Wylie's documentation:**
+- [Antimatter](https://github.com/A-Zalt)
 - [Andre](https://github.com/AndreNIH)
 - [Cvolton](https://github.com/Cvolton)
 - [Colon](https://github.com/GDColon)
