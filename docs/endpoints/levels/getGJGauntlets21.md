@@ -18,7 +18,7 @@ Gets the gauntlet levels.
 
 **special** - 1 (fetches the 2.2 gauntlets)
 
-**vkey** - equal to binaryVersion (starting with 46, which is 2.2080). Fetches the newer gauntlets
+**vkey** - equal to binaryVersion (starting with 46, which is 2.2080)
 
 ## Response
 
