@@ -9,14 +9,12 @@ Various text interfaces within the Geometry Dash client can be manipulated using
 
 ## Colour Tags
 
-<link rel="stylesheet" href="stylesheets/imageStyles.css">
-<img src="https://raw.githubusercontent.com/Wyliemaster/gddocs/master/assets/screenshots/colour_tags.png" class="alertlayer">
+
+![color tags preview](/assets/images/colour_tags.png)
 
 Colour Tags are used to style areas of text with colour. They contain both a start and an end tag - the start tag defining which colour should be rendered on screen and the end tag denoting when to stop reading. 
 
 **Usage:** `<cl>Coloured Text!</c>`
-
-<link rel="stylesheet" href="stylesheets/colour_tags.css">
 
 | Tag    | Colour code | Example (website only)         |
 | :----- | :---------- | :----------------------------- |
@@ -68,3 +66,70 @@ Shake Tags are used to render shaky text on screen. The number denotes the inten
 - Only Colour tags are usable without modifying the client - via level descriptions and comment bans
 
 - The tags are defined within the `MultilineBitmapFont` class and are sometimes disabled within the create method using a bool
+
+<style module>
+@font-face {
+    font-family: "TeX Gyre Heros";
+    src: url("/assets/fonts/texgyreheros-regular.woff") format("woff");
+}
+
+gdfmt {
+	font-family: "TeX Gyre Heros";
+
+	cb {
+		color: #4A52E1;
+	}
+
+	cg {
+		color: #40E348;
+	}
+
+	cl {
+		color: #60ABEF;
+	}
+
+	cj {
+		color: #32C8FF;
+	}
+
+	cy {
+		color: #FFFF00;
+	}
+
+	co {
+		color: #FFA54B;
+	}
+
+	cr {
+		color: #FF5A5A;
+	}
+
+	cp {
+		color: #FF00FF;
+	}
+
+	ca {
+		color: #9632FF;
+	}
+
+	cd {
+		color: #FF96FF;
+	}
+
+	cc {
+		color: #FFFF96;
+	}
+
+	cf {
+		color: #96FFFF;
+	}
+
+	cs {
+		color: #FFDC41;
+	}
+
+	c {
+		color: #FF0000;
+	}
+}
+</style>
