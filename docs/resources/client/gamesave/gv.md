@@ -159,6 +159,7 @@ Game Variables (gvs) are found inside of the [ValueKeeper](/resources/client/gam
 | gv_0172 | Disable Shake (2.2) |
 | gv_0173 | Ignore Damage (playtesting outside of editor) |
 | gv_0174 | Hide Playtest Text |
+| gv_0175 | Borderless Fix |
 | gv_0176 | Click On Steps |
 | gv_0177 | Click Between Steps |
 
