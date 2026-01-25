@@ -210,7 +210,7 @@ export default [
             "link": "/endpoints/rewards/getGJRewards"
           },
           {
-            "text": "getGJRewards.php",
+            "text": "getGJSecretReward.php",
             "link": "/endpoints/rewards/getGJSecretReward"
           }
         ],
