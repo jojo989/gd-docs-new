@@ -385,7 +385,7 @@ export default [
                 "link": "/resources/client/gamesave/gv"
               },
               {
-                "text": "KCEK Encoder Keys",
+                "text": "kCEK Encoder Keys",
                 "link": "/resources/client/gamesave/kCEK"
               },
               {
@@ -540,7 +540,7 @@ export default [
             "link": "/topics/encryption/chk"
           },
           {
-            "text": "RS, UUID And UDID",
+            "text": "RS, UUID and UDID",
             "link": "/topics/encryption/id"
           },
           {
