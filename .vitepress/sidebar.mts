@@ -579,6 +579,10 @@ export default [
         "link": "/topics/level_passwords"
       },
       {
+        "text": "Links",
+        "link": "/topics/links"
+      },
+      {
         "text": "Game Files Encoding",
         "link": "/topics/localfiles_encrypt_decrypt"
       },
