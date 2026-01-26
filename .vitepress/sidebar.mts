@@ -1,5 +1,9 @@
 export default [
   {
+    "text": "Changelog",
+    "link": "/changelog"
+  },
+  {
     "text": "Endpoints",
     "items": [
       {
