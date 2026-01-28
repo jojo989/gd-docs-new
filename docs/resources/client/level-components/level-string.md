@@ -1,5 +1,8 @@
 # Client Level String Resource
 
+## Note:
+- 2.2 adds a ton of new object properties. Most of the object properties can be found [here](https://flowvix.github.io/gd-info-explorer/).
+
 ## Object String
 The object string is contained within the inner level string. It is formatted as follows:
 
@@ -41,7 +44,7 @@ Property keys reflect the keys found in the following table, whereas property va
 ### Level String Data
 **Level String Structure**
 
-2.2 adds a ton of new object properties. Most of the object properties can be found [here](https://flowvix.github.io/gd-info-explorer/). You can access the old table of object properties (with all 2.1 properties and a few 2.2 properties) below if you need it for whatever reason.
+You can access the old table of object properties (with all 2.1 properties and a few 2.2 properties) below if you need it for whatever reason.
 
 | Key | Name/Value                           | Type                                            | Description                                                                        |
 |:----|:-------------------------------------|:------------------------------------------------|:-----------------------------------------------------------------------------------|
