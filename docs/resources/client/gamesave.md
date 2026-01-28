@@ -93,7 +93,7 @@ These keys were used in old versions of the game but are now obsolete.
 | Key     | Type | description |
 | :-------| :--- | :-----------|
 | [GLM_01](/resources/client/gamesave/GLM.md#GLM_01) | [Level](/resources/client/level.md)| All Official Levels you have progress on are stored here |
-| [GLM_02](/resources/client/gamesave/GLM.md#GLM_02) | [level](/resources/client/level.md) | Uploaded levels - before the account System |
+| [GLM_02](/resources/client/gamesave/GLM.md#GLM_02) | [level](/resources/client/level.md) | Local levels - before 1.1, when they were moved from CCGameManager.dat to a new file: CCLocalLevels.dat |
 | [GLM_03](/resources/client/gamesave/GLM.md#GLM_03) | [Level](/resources/client/level.md)| online levels played|
 | [GLM_04](/resources/client/gamesave/GLM.md#GLM_04) | rating| Shows what levels you have rated. was removed after 1.9 |
 | [GLM_06](/resources/client/gamesave/GLM.md#GLM_06) | AccountIDs| The AccountIDs of all creators you follow    |
