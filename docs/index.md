@@ -36,7 +36,7 @@ Cross Platform Mod loader and Modding framework
 - **[Megahack](https://absolllute.com/store/view_mega_hack_pro) by [Absolute](https://github.com/absoIute)**  
 Modded client for Windows and Android which includes hundreds of mods
 
-- **[iCreate Pro](https://geticreate.pro/) by [Camila314](https://github.com/camila314)**  
+- **[iCreate Pro](https://icreate.pro/) by [Camila314](https://github.com/camila314)**  
 Modded client for iOS which includes 30+ mods
 
 - **[BetterEdit](https://github.com/HJfod/BetterEdit) by [HJFod](https://github.com/HJfod/)**  
