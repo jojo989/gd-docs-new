@@ -22,6 +22,14 @@ export default defineConfig({
 
   title: "GD Docs",
   description: "Documentation for Geometry Dash",
+  lang: 'en-US',
+
+  sitemap: {
+    hostname: 'https://boomlings.dev'
+  },
+
+  cleanUrls: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/assets/logo.png",
