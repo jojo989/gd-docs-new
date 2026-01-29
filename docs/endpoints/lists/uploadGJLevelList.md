@@ -1,6 +1,6 @@
-# uploadGJLevel21.php
+# uploadGJLevelList.php
 
-Uploads a created level to the servers.
+Uploads a created list to the servers.
 
 ## Parameters
 
