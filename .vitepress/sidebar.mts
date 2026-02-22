@@ -623,8 +623,12 @@ export default [
     "text": "Player physics",
     "items": [
       {
-        "text": "hitboxes",
+        "text": "Hitboxes",
         "link": "/player physics/hitboxes"
+      },
+	  {
+        "text": "Gamemodes",
+        "link": "/player physics/gamemodes"
       }
     ]
   }
