@@ -2,7 +2,7 @@
 
 For the tables below, gravity is describing whether the player falls up or down.
 The variable G is simply 1 when the player has regular gravity, or -1 when the player has inverse gravity. 
-All the velocities are in Vels (1 Vel = 60 units/sec).
+All the velocities are in Vels (1 Vel = 60 units/sec, as reference 1 block is 30 units).
 Max velocity is the highest velocity the player can reach by falling normally, with the exception of ship which also has an upwards max velocity in addition to the downwards one.
 However the max velocity can be temporarily overridden by force blocks until it goes back down to the regular max velocity.
 Ticks held is how many ticks one needs to hold for before the click action triggers.

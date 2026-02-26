@@ -1,5 +1,5 @@
 # Player hitboxes
-a table of the hitbox size of every gamemode, including red hitbox and blue, and also including the size of the hitboxed in the mini gamemode
+a table of the hitbox size of every gamemode in units, including red hitbox and blue, and also including the size of the hitboxed in the mini gamemode
 
 **as reference, 1 block/1 grid on the editor is 30 units**
 
