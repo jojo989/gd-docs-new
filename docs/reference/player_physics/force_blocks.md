@@ -1,4 +1,4 @@
-## Force Blocks
+# Force Blocks
 
 The acceleration in Vels from a force block without relative or range turned on can be calculated with the following equation.
 ![Eq](forceblocksvg/equation1.svg)
