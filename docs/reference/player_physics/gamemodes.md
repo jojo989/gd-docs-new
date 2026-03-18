@@ -1,3 +1,7 @@
+---
+aside: true
+---
+
 # Gamemodes
 
 For the tables below, G is describing whether the player falls up or down.
